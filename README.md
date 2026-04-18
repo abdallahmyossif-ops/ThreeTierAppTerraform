@@ -1,6 +1,6 @@
 Three Tier App Terraform
 A fully automated 3-tier AWS architecture built using Terraform. It includes VPC, subnets, EC2, Auto Scaling Group, Load Balancer, and RDS, designed for scalability, security, and high availability using Infrastructure as Code best practices.
-# AWS 3-Tier Architecture باستخدام Terraform 🚀
+# AWS 3-Tier Architecture Using Terraform 🚀
 
 📌 Overview
 This project demonstrates a production-ready 3-tier architecture on AWS using Terraform.
