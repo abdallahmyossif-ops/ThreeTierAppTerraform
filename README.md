@@ -25,4 +25,5 @@ This project demonstrates a production-ready 3-tier architecture on AWS using Te
    terraform init
    terraform plan
    terraform apply
+<img width="1195" height="896" alt="Gemini_Generated a7a" src="https://github.com/user-attachments/assets/b14c5804-633c-48a0-aa49-203b27b21aa3" />
 
